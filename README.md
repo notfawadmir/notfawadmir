@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **notfawadmir@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGOCt0Fomk/fkdElgiAq-acBhUBSGIhfA/view?utm_content=DAGOCt0Fomk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha922642ada](https://www.canva.com/design/DAGOCt0Fomk/fkdElgiAq-acBhUBSGIhfA/view?utm_content=DAGOCt0Fomk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha922642ada)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I Love Cats 🐈**
 

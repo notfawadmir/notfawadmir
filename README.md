@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<a href="#"><img align="left" alt="React" length="30%" width="100%" style="padding-right:10px;" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif" /></a><br>
+<a href="#"><img align="left" alt="React" length="10%" width="50%" style="padding-right:10px;" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif" /></a><br>
 
 <!-- Arrow -->
 <p align="center">

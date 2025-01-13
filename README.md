@@ -47,7 +47,6 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 
 
-<img src="./assets/arrow.gif"/>
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
@@ -111,11 +110,10 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberfantics&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6&theme=radical" alt="CyberFantics streak stats"/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=cyberfantics&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="CyberFantics stats"/>
+    <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=notfawadmir&count_private=true&theme=react&border_radius=10&background=1F2937&stroke=000000&ring=10B981&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=10B981&currStreakNum=3B82F6&dates=9CA3AF&sideLabels=F3F4F6&theme=radical" alt="notfawadmir streak stats"/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="notfawadmir stats"/>
 </div>
 
-<img src="./assets/arrow.gif">
 
 ## 🛠️ Contribution Activity
 

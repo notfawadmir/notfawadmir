@@ -2,12 +2,13 @@
   <img src="banner.png" alt="React" style="display: block; width: 100%; height: 40vh; padding-right: 10px; object-fit: cover;" 
   />
 </a>
+
+<p align="center">
+  <img src="arrow.gif" alt="Arrow"/>
+</p>
 <br />
+
 <h3 align="center">A passionate Developer/CEH</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
-
 
 <h1>
  About Me 
@@ -18,6 +19,11 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba/)
 
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
+
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
                                                
 - 🌱 I’m currently learning **Cybersecurity**    <img align="right" length="100px" width="100px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
@@ -27,6 +33,9 @@
 - 📫 How to reach me **notfawadmir@gmail.com**
 
 - ⚡ Fun fact **I Love Cats 🐈**
+
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+
 
   ## 💼 Featured Projects & Contributions
 
@@ -50,6 +59,7 @@ An object-oriented programming project for creating a virtual assistant. This as
 ### 4. [**File-Folder Checker**](https://github.com/notfawadmir/File-Folder-Checker)
 A Shell Script designed to analyze and verify file and folder structures. This script helps in identifying Files or Folders' existence and tells us if a directory is empty or not and if the file is empty or not.
 
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 
 
@@ -72,6 +82,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
     </td>
 </table>
 
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 
 ### Frameworks
@@ -80,6 +91,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <br><h4>Tailwind CSS</h4>
 
 </table>
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 ### Database
 <table>
@@ -95,6 +107,9 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 </table>
 
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+
+
 ### Tools
 <table>
     <td align="center" width="90">
@@ -104,6 +119,9 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 </table>
 
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+
+
 ## 📥 Download My CV:
 
 <div align="center">
@@ -111,6 +129,9 @@ A Shell Script designed to analyze and verify file and folder structures. This s
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
   </a>
 </div>
+
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+
  
 ## 📊 GitHub Stats
 
@@ -125,6 +146,8 @@ A Shell Script designed to analyze and verify file and folder structures. This s
     <br/>
     <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=notfawadmir&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
 </div>
+
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 
 ## 🤝 Get in Touch:
@@ -146,9 +169,10 @@ A Shell Script designed to analyze and verify file and folder structures. This s
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
   </a>
 
- 
   <a href="https://instagram.com/eagnibal">
     <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
 </div>
+
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 

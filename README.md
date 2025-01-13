@@ -8,7 +8,6 @@
 </p>
 <br />
 
-<h3 align="center">A passionate Developer/CEH</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
 
 <h1>
@@ -151,7 +150,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
   <a href="https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="goto:notfawadmir@gmail.com">
+  <a href="mailto:notfawadmir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Me%20an%20Email-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.kaggle.com/fawadmir">

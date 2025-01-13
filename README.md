@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Fawad Ahmed Mir</h1>
 <h3 align="center">A passionate Developer/CEH</h3>
-<img align="left" alt="coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
+<img align="left" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
 
 
 <h1>

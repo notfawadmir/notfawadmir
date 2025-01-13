@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fawad Ahmed Mir</h1>
 <h3 align="center">A passionate Developer/CEH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&abbreviated=true&base=1957800&style=for-the-badge" alt="profile views" /> </p>
+<p align="left"> <img src="![notfawadmir](https://komarev.com/ghpvc/?notfawadmir=notfawadmir)" alt="profile views" /> </p>
 
 
 <h1>

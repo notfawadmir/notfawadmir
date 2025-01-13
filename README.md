@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="React" width="100%" length="50%" style="padding-right:10px;" src="banner.png" /></a><br>
+<a href="#"><img align="left" alt="React" width="100%" length="500px" style="padding-right:10px;" src="banner.png" /></a><br>
 
 <h3 align="center">A passionate Developer/CEH</h3>
 

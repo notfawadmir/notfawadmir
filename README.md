@@ -1,5 +1,5 @@
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="banner.png" /></a><br>
 
-<h1 align="center">Hi 👋, I'm Fawad Ahmed Mir</h1>
 <h3 align="center">A passionate Developer/CEH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>

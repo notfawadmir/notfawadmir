@@ -44,6 +44,73 @@ An object-oriented programming project for creating a virtual assistant. This as
 
 ### 4. [**File-Folder Checker**](https://github.com/notfawadmir/File-Folder-Checker)
 A Shell Script designed to analyze and verify file and folder structures. This script helps in identifying Files or Folders' existence and tells us if a directory is empty or not and if the file is empty or not.
+
+
+
+<img src="./assets/arrow.gif"/>
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+
+### Languages
+<table>
+   
+  <td align="center" width="90">
+        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
+        <br><h4>PHP</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>Python</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://isocpp.org/" target="_blank"><img alt="C++" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" /></a>
+        <br><h4>C++</h4>
+    </td>
+</table>
+
+
+
+### Frameworks
+<table>
+<td align="center" width="90">
+       <br><h4>Tailwind CSS</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
+
+</table>
+
+### Database
+<table>
+    <td align="center" width="90">
+        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
+        <br><h4>PostgreSQL</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
+        <br><h4>MySQL</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
+
+</table>
+
+### Tools
+<table>
+    <td align="center" width="90">
+        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
+        <br><h4>Git</h4>
+    </td>
+
+</table>
+
+## 📥 Download My CV:
+
+<div align="center">
+  <a href="./assets/CV.pdf" download="CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
+  </a>
+</div>
  
 
 <h3 align="left">Connect with me:</h3>

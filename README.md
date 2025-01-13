@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fawad Ahmed Mir</h1>
 <h3 align="center">A passionate Developer/CEH</h3>
-<img align="right" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
 
 
 <h1>
@@ -14,7 +13,8 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba/)
 
 
-- 🌱 I’m currently learning **Cybersecurity**
+                                               
+- 🌱 I’m currently learning **Cybersecurity**    <img align="right" size="50%" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
 
 - 💬 Ask me about **C++/Python**
 

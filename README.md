@@ -71,12 +71,9 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 
 ### Frameworks
-<table>
 <td align="center" width="90">
-       <br><h4>Tailwind CSS</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+        <br><h4>Tailwind CSS</h4>
 
 </table>
 
@@ -90,8 +87,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
         <br><h4>MySQL</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
+   
 
 </table>
 
@@ -107,7 +103,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 ## 📥 Download My CV:
 
 <div align="center">
-  <a href="./assets/CV.pdf" download="CV.pdf">
+  <a href="CV.pdf" download="CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
   </a>
 </div>

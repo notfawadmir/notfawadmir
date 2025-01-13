@@ -1,8 +1,5 @@
 <a href="#">
-  <img 
-    src="banner.png" 
-    alt="React" 
-    style="float: left; width: 100%; height: 30%; padding-right: 10px; object-fit: cover;" 
+  <img src="banner.png" alt="React" style="display: block; width: 100%; height: 20vh; padding-right: 10px; object-fit: cover;" 
   />
 </a>
 <br />

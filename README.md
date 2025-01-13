@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Fawad Ahmed Mir</h1>
 <h3 align="center">A passionate Developer/CEH</h3>
-<img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif" >
-<p align="left"> <img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" /> </p>
+<img align="left" alt="coding" width="400" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif" >
 
 
 <h1>
@@ -146,4 +145,5 @@ A Shell Script designed to analyze and verify file and folder structures. This s
     <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
 </div>
+<p align="left"> <img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" /> </p>
 

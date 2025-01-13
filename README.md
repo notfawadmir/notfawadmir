@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&label=Profile%20views&color=0e75b6&style=flat" alt="notfawadmir" /> </p>
 
+
 <h1>
  About Me 
 <a href="#--about-me--">
     <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
 </a>
 </h1>
-
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba/)
 
@@ -147,5 +147,3 @@ A Shell Script designed to analyze and verify file and folder structures. This s
   </a>
 </div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&show_icons=true&locale=en" alt="notfawadmir" /></p>

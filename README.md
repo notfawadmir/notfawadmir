@@ -1,6 +1,13 @@
-<a href="#"><img src="banner.png" align="left" alt="React" width="100%" length="30%" style="padding-right:10px;"  /></a><br>
-
+<a href="#">
+  <img 
+    src="banner.png" 
+    alt="React" 
+    style="float: left; width: 100%; height: 30%; padding-right: 10px; object-fit: cover;" 
+  />
+</a>
+<br />
 <h3 align="center">A passionate Developer/CEH</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
 

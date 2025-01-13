@@ -9,11 +9,7 @@
 <br />
 
 <h3 align="center">A passionate Developer/CEH</h3>
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
-
-<tag> </tag><p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
-
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
 
 <h1>
  About Me 

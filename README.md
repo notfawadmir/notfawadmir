@@ -9,6 +9,11 @@
 <br />
 
 <h3 align="center">A passionate Developer/CEH</h3>
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+
+<tag> </tag><p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
+
+<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 <h1>
  About Me 
@@ -19,11 +24,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba/)
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
-
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
                                                
 - 🌱 I’m currently learning **Cybersecurity**    <img align="right" length="100px" width="100px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
@@ -119,7 +119,6 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 </table>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 
 ## 📥 Download My CV:

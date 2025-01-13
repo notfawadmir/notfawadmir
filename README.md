@@ -14,7 +14,7 @@
 
 
                                                
-- 🌱 I’m currently learning **Cybersecurity**    <img align="right" size="50%" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
+- 🌱 I’m currently learning **Cybersecurity**    <img align="right" length="50px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
 
 - 💬 Ask me about **C++/Python**
 

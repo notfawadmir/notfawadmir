@@ -78,6 +78,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 
 ### Front End
+<table>
 <td align="center" width="90">
         <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
         <br><h4>HTML</h4>

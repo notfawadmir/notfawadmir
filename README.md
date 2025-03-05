@@ -64,8 +64,6 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 ### Languages
 <table>
-   
-  <td align="center" width="90">
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
         <br><h4>Python</h4>
@@ -83,6 +81,10 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 <td align="center" width="90">
         <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
         <br><h4>HTML</h4>
+
+<td align="center" width="90">
+        <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" /></a>
+        <br><h4>CSS</h4>
 
 </table>
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>

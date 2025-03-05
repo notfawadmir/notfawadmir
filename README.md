@@ -120,7 +120,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <br><h4>Scikit-learn</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://https://pypi.org/project/requests/" target="_blank"><img alt="REQUESTS" width="45" height="45" style="padding:10px;" src="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://requests.readthedocs.io/&ved=2ahUKEwiTu8v4uvKLAxV6p1YBHRB4BgwQqa4BegQIShAA&usg=AOvVaw0aNRtBIRKMw_6eb37eWOan" /></a>
+        <a href="https://https://pypi.org/project/requests/" target="_blank"><img alt="REQUESTS" width="45" height="45" style="padding:10px;" src="requests-sidebar.webp" /></a>
         <br><h4>Requests</h4>
     </td>
 

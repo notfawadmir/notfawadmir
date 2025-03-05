@@ -123,6 +123,10 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <a href="https://https://pypi.org/project/requests/" target="_blank"><img alt="REQUESTS" width="45" height="45" style="padding:10px;" src="requests-sidebar.webp" /></a>
         <br><h4>Requests</h4>
     </td>
+    <td align="center" width="90">
+        <a href="https://https://selenium.dev/" target="_blank"><img alt="SELENIUM" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg" /></a>
+        <br><h4>Selenium</h4>
+    </td>
 
 </table>
 
@@ -136,8 +140,8 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <br><h4>Git</h4>
     </td>
     
-
-
+    
+</table>
 
 ## 📥 Download My CV:
 

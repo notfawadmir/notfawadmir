@@ -163,7 +163,6 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="BASH" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" /></a>
         <br><h4>Bash</h4>
     </td>
-    
 </table>
 
 ## 📥 Download My CV:

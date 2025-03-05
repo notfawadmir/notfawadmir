@@ -66,8 +66,8 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 <table>
    
   <td align="center" width="90">
-        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
-        <br><h4>PHP</h4>
+        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/html.svg" /></a>
+        <br><h4>HTML</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>

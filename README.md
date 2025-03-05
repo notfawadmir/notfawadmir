@@ -38,12 +38,12 @@
 
 Here are some of my standout projects and contributions that showcase my skills in AI, C++, Python development, cybersecurity, and more:
 
-### 1. [**Bus Reservation System **](https://github.com/notfawadmir/Bus-Reservation-System) 
+### 1. [**Bus Reservation System**](https://github.com/notfawadmir/Bus-Reservation-System) 
 A project designed to manage bus reservations efficiently. It allows users to book tickets, view bus schedules, and manage passenger information. This system demonstrates object-oriented programming techniques, making it a valuable resource for learning structured application development.
 
 
 
-### 2. [**Mental Health Analysis **](https://github.com/notfawadmir/ML-Mental-Health-Analysis)
+### 2. [**Mental Health Analysis**](https://github.com/notfawadmir/ML-Mental-Health-Analysis)
 A machine learning project aimed at analyzing mental health data to identify patterns and trends. This repository uses datasets and ML algorithms to provide insights into mental health issues, helping to create awareness and potentially aiding in decision-making for better mental health solutions.
 
  
@@ -66,7 +66,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 <table>
    
   <td align="center" width="90">
-        <a href="https://www.html.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/html.svg" /></a>
+        <a href="https://www.html.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://www.flaticon.com/free-icon/html-5_919827" /></a>
         <br><h4>HTML</h4>
     </td>
     <td align="center" width="90">

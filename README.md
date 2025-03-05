@@ -66,7 +66,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 <table>
    
   <td align="center" width="90">
-        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/html.svg" /></a>
+        <a href="https://www.html.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/html.svg" /></a>
         <br><h4>HTML</h4>
     </td>
     <td align="center" width="90">

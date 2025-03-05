@@ -66,9 +66,6 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 <table>
    
   <td align="center" width="90">
-        <a href="https://www.html.com/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://www.flaticon.com/free-icon/html-5_919827" /></a>
-        <br><h4>HTML</h4>
-    </td>
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
         <br><h4>Python</h4>
@@ -82,10 +79,10 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
 
-### Frameworks
+### Front End
 <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><h4>Tailwind CSS</h4>
+        <a href="https://www.html.com" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://www.w3.org/html/" /></a>
+        <br><h4>HTML</h4>
 
 </table>
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>

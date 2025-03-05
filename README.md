@@ -139,7 +139,6 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
         <br><h4>Git</h4>
     </td>
-
     <td align="center" width="90">
         <a href="https://jupyter.org/" target="_blank"><img alt="JUPYTER" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" /></a>
         <br><h4>Jupyter</h4>

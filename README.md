@@ -83,23 +83,46 @@ A Shell Script designed to analyze and verify file and folder structures. This s
         <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
         <br><h4>HTML</h4>
 <td align="center" width="90">
-        <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" /></a>
+        <a href="https://www.w3.org/css/" target="_blank"><img alt="CSS" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" /></a>
         <br><h4>CSS</h4>
 
 </table>
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
-### Database
+### ML/DL
 <table>
     <td align="center" width="90">
-        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
-        <br><h4>PostgreSQL</h4>
+        <a href="https://www.numpy.org/" target="_blank"><img alt="NUMPY" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original.svg" /></a>
+        <br><h4>Numpy</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
-        <br><h4>MySQL</h4>
+        <a href="https://www.pandas.pydata.org/" target="_blank"><img alt="PANDAS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" /></a>
+        <br><h4>Pandas</h4>
     </td>
-   
+    <td align="center" width="90">
+        <a href="https://www.matplotlib.org/" target="_blank"><img alt="MATPLOTLIB" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg" /></a>
+        <br><h4>Matplotlib</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.seaborn.pydata.org/" target="_blank"><img alt="SEABORN" width="45" height="45" style="padding:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></a>
+        <br><h4>Seaborn</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.tensorflow.org/" target="_blank"><img alt="TENSORFLOW" width="45" height="45" style="padding:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" /></a>
+        <br><h4>TensorFlow</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.pytorch.org/" target="_blank"><img alt="PYTORCH" width="45" height="45" style="padding:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /></a>
+        <br><h4>Pytorch</h4>
+    </td>
+   <td align="center" width="90">
+        <a href="https://scikit-learn.org/" target="_blank"><img alt="SCIKIT-LEARN" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>
+        <br><h4>Scikit-learn</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://https://pypi.org/project/requests/" target="_blank"><img alt="REQUESTS" width="45" height="45" style="padding:10px;" src="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://requests.readthedocs.io/&ved=2ahUKEwiTu8v4uvKLAxV6p1YBHRB4BgwQqa4BegQIShAA&usg=AOvVaw0aNRtBIRKMw_6eb37eWOan" /></a>
+        <br><h4>Requests</h4>
+    </td>
 
 </table>
 

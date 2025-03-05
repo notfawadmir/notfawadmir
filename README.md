@@ -136,7 +136,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 ### Tools
 <table>
    <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="GITHUB" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" /></a>
+        <a href="https://github.com/" target="_blank"><img alt="GITHUB" width="45" height="45" style="padding:10px;" src="github-11-xxl.png" /></a>
         <br><h4>GitHub</h4>
     </td>
     <td align="center" width="90">

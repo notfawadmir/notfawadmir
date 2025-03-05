@@ -134,8 +134,8 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 
 ### Tools
-<table> 
-    <td align="center" width="90">
+<table>
+   <td align="center" width="90">
         <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
         <br><h4>Git</h4>
     </td>

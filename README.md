@@ -135,8 +135,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 
 ### Tools
-<table>
-    
+<table> 
     <td align="center" width="90">
         <a href="https://jupyter.org/" target="_blank"><img alt="JUPYTER" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" /></a>
         <br><h4>Jupyter</h4>

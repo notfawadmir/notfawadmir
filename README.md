@@ -8,7 +8,6 @@
 </p>
 <br />
 
-
 <h1>
  About Me 
 <a href="#--about-me--">

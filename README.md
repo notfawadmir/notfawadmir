@@ -217,5 +217,3 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
-
-

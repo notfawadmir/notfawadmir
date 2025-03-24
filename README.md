@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="banner.png" alt="React" style="display: block; height: 300px ; pxwidth: 100%; padding-right: 10px; object-fit: stretch;" 
+  <img src="banner.png" alt="React" style="display: block; height: 300px ; width: 100%; padding-right: 10px; object-fit: stretch;" 
   />
 </a>
 

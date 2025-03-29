@@ -54,7 +54,7 @@ An object-oriented programming project for creating a virtual assistant. This as
 ### 4. [**File-Folder Checker**](https://github.com/notfawadmir/File-Folder-Checker)
 A Shell Script designed to analyze and verify file and folder structures. This script helps in identifying Files or Folders' existence and tells us if a directory is empty or not and if the file is empty or not.
 
-### 5. [**DSA C++ Project - Text Editor Using Stack**](https://github.com/notfawadmir/Text-Editor-Stack)
+### 5. [**Text Editor Stack**](https://github.com/notfawadmir/Text-Editor-Stack)
 A project that implements a simple text editor using the stack data structure in C++. It allows users to perform basic text editing operations such as adding, deleting, and undoing changes.This project is ideal for mastering C++ data structures and understanding how stacks work in dynamic content management.
 
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>

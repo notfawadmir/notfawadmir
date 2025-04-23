@@ -178,7 +178,7 @@ A project that implements a simple text editor using the stack data structure in
  
 ## 📊 GitHub Stats
 
-   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="notfawadmir stats"/>
+   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=radical&border_radius=10&background=1F2937&icon_color=3B82F6&title_color=10B981&text_color=9CA3AF" alt="notfawadmir stats"/>
 </div>
 
 

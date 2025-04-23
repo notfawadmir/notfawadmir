@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **C++/Python**
 
-- 📫 How to reach me **(fawadmeer000@gmail.com)["mailto:fawadmeer000@gmail.com"]**
+- 📫 How to reach me **(fawadmeer000@gmail.com)**["mailto:fawadmeer000@gmail.com"]
 
 - ⚡ Fun fact **I Love Cats 🐈**
 

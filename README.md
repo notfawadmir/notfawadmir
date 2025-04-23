@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **C++/Python**
 
-- 📫 How to reach me **notfawadmir@gmail.com**
+- 📫 How to reach me **(fawadmeer000@gmail.com ["mailto:fawadmeer000@gmail.com"])**
 
 - ⚡ Fun fact **I Love Cats 🐈**
 
@@ -203,8 +203,8 @@ A project that implements a simple text editor using the stack data structure in
   <a href="mailto:notfawadmir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Me%20an%20Email-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.kaggle.com/fawadmir">
-    <img src="https://img.shields.io/badge/Kaggle-Check%20my%20Profile-green?style=for-the-badge&logo=kaggle">
+  <a href="https://www.threads.net/@notfawadmir">
+    <img src="https://img.shields.io/badge/Threads-Follow%20my%20Profile-black?style=for-the-badge&logo=threads">
   </a>
   <a href="https://https://www.facebook.com/fawad.tasneemmir">
     <img src="https://img.shields.io/badge/Facebook-Follow%20me%20on%20Facebook-3b5998?style=for-the-badge&logo=facebook">

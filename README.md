@@ -148,7 +148,7 @@ A project that implements a simple text editor using the stack data structure in
         <br><h4>NPM</h4>
     </td>
   <td align="center" width="90">
-        <a href="https://portswigger.net/burp" target="_blank"><img alt="BURPSUITE" width="45" height="45" style="padding:10px;" src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon-thumbnail.png" /></a>
+        <a href="https://portswigger.net/burp" target="_blank"><img alt="BURPSUITE" width="45" height="45" style="padding:10px;" src="https://img.icons8.com/?size=512&id=41078&format=png" /></a>
         <br><h4>Burpsuite</h4>
     </td>
   <td align="center" width="90">

@@ -212,7 +212,7 @@ A project that implements a simple text editor using the stack data structure in
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="https://instagram.com/eagnibal">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-purple?style=for-the-badge&logo=instagram">
   </a>
    <a href="https://medium.com/@fawadmeer000">
     <img src="https://img.shields.io/badge/Medium-Follow%20me%20on%20Medium-black?style=for-the-badge&logo=medium">

@@ -139,6 +139,22 @@ A project that implements a simple text editor using the stack data structure in
         <a href="https://github.com/" target="_blank"><img alt="GITHUB" width="45" height="45" style="padding:10px;" src="github-11-xxl.png" /></a>
         <br><h4>GitHub</h4>
     </td>
+  <td align="center" width="90">
+        <a href="https://www.zaproxy.org/" target="_blank"><img alt="ZAP" width="45" height="45" style="padding:10px;" src="https://www.pngfind.com/pngs/m/664-6646318_image-owasp-zap-logo-hd-png-download.png" /></a>
+        <br><h4>ZAP</h4>
+    </td>
+  <td align="center" width="90">
+        <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/npm/npm-original-wordmark.svg" /></a>
+        <br><h4>NPM</h4>
+    </td>
+  <td align="center" width="90">
+        <a href="https://portswigger.net/burp" target="_blank"><img alt="BURPSUITE" width="45" height="45" style="padding:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dburp%2BSuite&psig=AOvVaw1xx9yGeYQdGXz3yveenvc3&ust=1745520903014000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjS653q7owDFQAAAAAdAAAAABAE" /></a>
+        <br><h4>Burpsuite</h4>
+    </td>
+  <td align="center" width="90">
+        <a href="https://www.docker.com/" target="_blank"><img alt="DOCKER" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg" /></a>
+        <br><h4>Docker</h4>
+    </td>
     <td align="center" width="90">
         <a href="https://jupyter.org/" target="_blank"><img alt="JUPYTER" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" /></a>
         <br><h4>Jupyter</h4>

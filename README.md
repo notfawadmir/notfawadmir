@@ -199,7 +199,7 @@ A project that implements a simple text editor using the stack data structure in
   <a href="https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:notfawadmir@gmail.com">
+  <a href="mailto:fawadmeer000@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Me%20an%20Email-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.threads.net/@notfawadmir">
@@ -211,7 +211,6 @@ A project that implements a simple text editor using the stack data structure in
   <a href="https://wa.me/923065297526">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
   </a>
-
   <a href="https://instagram.com/eagnibal">
     <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
   </a>

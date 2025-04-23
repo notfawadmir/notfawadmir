@@ -214,6 +214,9 @@ A project that implements a simple text editor using the stack data structure in
   <a href="https://instagram.com/eagnibal">
     <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
+   <a href="https://medium.com/@fawadmeer000">
+    <img src="https://img.shields.io/badge/Medium-Follow%20me%20on%20Medium-black?style=for-the-badge&logo=medium">
+  </a>
 </div>
 
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>

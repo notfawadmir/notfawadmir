@@ -206,8 +206,6 @@ A project that implements a simple text editor using the stack data structure in
     <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=notfawadmir&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
 </div>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -217,7 +215,6 @@ A project that implements a simple text editor using the stack data structure in
 </p>
 
 ---
-
 
 ## 🤝 Get in Touch:
 

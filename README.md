@@ -208,6 +208,16 @@ A project that implements a simple text editor using the stack data structure in
 
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=notfawadmir&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 
 ## 🤝 Get in Touch:
 

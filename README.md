@@ -181,6 +181,14 @@ A project that implements a simple text editor using the stack data structure in
     </td>
 </table>
 
+## 🏅 Badges:
+<!--First Row-->
+<p  align='center'>
+  <a href="https://www.credly.com/badges/e79e2be1-d5cc-4cf2-b54f-2c1f1a781bdb/public_url" target="_blank">
+    <img src="introduction-to-cybersecurity.png" alt="Introduction To Cybersecurity Certificate" width="200"/>
+  </a>
+</p>
+
 ## 📥 Download My CV:
 
 <div align="center">

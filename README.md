@@ -1,10 +1,10 @@
 <a href="#">
-  <img src="banner.png" alt="React" style="display: block; height: 300px ; width: 100%; padding-right: 10px; object-fit: stretch;" 
+  <img src="./assets/banner.png" alt="React" style="display: block; height: 300px ; width: 100%; padding-right: 10px; object-fit: stretch;" 
   />
 </a>
 
 <p align="center">
-  <img src="arrow.gif" alt="Arrow"/>
+  <img src="./assets/arrow.gif" alt="Arrow"/>
 </p>
 <br />
 
@@ -16,9 +16,9 @@
 
 </h1>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 <p align="left" > &nbsp; <img src="https://komarev.com/ghpvc/?username=notfawadmir&color=blue" /> </p>
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
                                                
 - 🌱 I’m currently learning **Cybersecurity**    <img align="right" length="100px" width="100px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" >
@@ -28,7 +28,7 @@
 - 📫 How to reach me [fawadmeer000@gmail.com](mailto:fawadmeer000@gmail.com)
 - ⚡ Fun fact **I Love Cats 🐈**
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
 
   ## 💼 Featured Projects & Contributions
@@ -56,7 +56,7 @@ A Shell Script designed to analyze and verify file and folder structures. This s
 ### 5. [**Text Editor Stack**](https://github.com/notfawadmir/Text-Editor-Stack)
 A project that implements a simple text editor using the stack data structure in C++. It allows users to perform basic text editing operations such as adding, deleting, and undoing changes.This project is ideal for mastering C++ data structures and understanding how stacks work in dynamic content management.
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
 
 
@@ -74,7 +74,7 @@ A project that implements a simple text editor using the stack data structure in
     </td>
 </table>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
 
 ### Front End
@@ -88,7 +88,7 @@ A project that implements a simple text editor using the stack data structure in
         <br><h4>CSS</h4>
     </td>
 </table>
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
 ### ML/DL
 <table>
@@ -130,13 +130,13 @@ A project that implements a simple text editor using the stack data structure in
     </td>
 </table>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
 
 ### Tools
 <table>
    <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="GITHUB" width="45" height="45" style="padding:10px;" src="github-11-xxl.png" /></a>
+        <a href="https://github.com/" target="_blank"><img alt="GITHUB" width="45" height="45" style="padding:10px;" src="./assets/github-11-xxl.png" /></a>
         <br><h4>GitHub</h4>
     </td>
   <td align="center" width="90">
@@ -185,22 +185,22 @@ A project that implements a simple text editor using the stack data structure in
 <!--First Row-->
 <p  align='center'>
   <a href="https://www.credly.com/badges/e79e2be1-d5cc-4cf2-b54f-2c1f1a781bdb/public_url" target="_blank">
-    <img src="introduction-to-cybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
+    <img src="./assets/introduction-to-cybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
   </a>
   
   <a href="https://www.credly.com/badges/3e96d751-81b0-47ce-8a32-d327d8cf0315/public_url" target="_blank">
-    <img src="python-essentials-I.png" alt="Python Essentials-I" width="200"/>
+    <img src="./assets/python-essentials-I.png" alt="Python Essentials-I" width="200"/>
   </a>
 
 ## 📥 Download My CV:
 
 <div align="center">
-  <a href="CV.pdf" download="CV.pdf">
+  <a href="./assets/CV.pdf" download="CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github">
   </a>
 </div>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
  
 ## 📊 GitHub Stats
@@ -253,7 +253,7 @@ A project that implements a simple text editor using the stack data structure in
   </a>
 </div>
 
-<p align="center"><img src="arrow.gif" alt="Arrow"/></p>
+<p align="center"><img src="./assets/arrow.gif" alt="Arrow"/></p>
 
 
 

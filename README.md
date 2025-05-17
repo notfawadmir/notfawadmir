@@ -193,7 +193,7 @@ A project that implements a simple text editor using the stack data structure in
     <img src="python-essentials-I.png" alt="Python Essentials-I Certificate" width="200"/>
   </a>
 </p>
-## 📥 Download My CV:
+ 📥 ## Download My CV:
 
 <div align="center">
   <a href="CV.pdf" download="CV.pdf">

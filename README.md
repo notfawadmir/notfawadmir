@@ -185,14 +185,12 @@ A project that implements a simple text editor using the stack data structure in
 <!--First Row-->
 <p  align='center'>
   <a href="https://www.credly.com/badges/e79e2be1-d5cc-4cf2-b54f-2c1f1a781bdb/public_url" target="_blank">
-    <img src="introduction-to-cybersecurity.png" alt="Introduction To Cybersecurity Certificate" width="200"/>
+    <img src="introduction-to-cybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
   </a>
-</p>
-<p  align='center'>
+  
   <a href="https://www.credly.com/badges/3e96d751-81b0-47ce-8a32-d327d8cf0315/public_url" target="_blank">
-    <img src="python-essentials-I.png" alt="Python Essentials-I Certificate" width="200"/>
+    <img src="python-essentials-I.png" alt="Python Essentials-I" width="200"/>
   </a>
-</p>
 
 ## 📥 Download My CV:
 

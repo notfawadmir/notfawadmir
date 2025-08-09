@@ -12,7 +12,7 @@
  About Me 
 <a href="#--about-me--">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir/)
 
 </h1>
 
@@ -230,7 +230,7 @@ A project that implements a simple text editor using the stack data structure in
 ## 🤝 Get in Touch:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba">
+  <a href="https://www.linkedin.com/in/fawad-ahmed-mir">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:fawadmeer000@gmail.com">
@@ -245,7 +245,7 @@ A project that implements a simple text editor using the stack data structure in
   <a href="https://wa.me/923065297526">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp">
   </a>
-  <a href="https://instagram.com/eagnibal">
+  <a href="https://instagram.com/notfawadmir">
     <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-purple?style=for-the-badge&logo=instagram">
   </a>
    <a href="https://medium.com/@fawadmeer000">

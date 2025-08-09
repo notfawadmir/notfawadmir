@@ -239,7 +239,7 @@ A project that implements a simple text editor using the stack data structure in
   <a href="https://www.threads.net/@notfawadmir">
     <img src="https://img.shields.io/badge/Threads-Follow%20my%20Profile-black?style=for-the-badge&logo=threads">
   </a>
-  <a href="https://https://www.facebook.com/fawad.tasneemmir">
+  <a href="https://www.facebook.com/fawad.mir.2025">
     <img src="https://img.shields.io/badge/Facebook-Follow%20me%20on%20Facebook-3b5998?style=for-the-badge&logo=facebook">
   </a>
   <a href="https://wa.me/923065297526">

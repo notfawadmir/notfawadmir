@@ -220,6 +220,19 @@ Internals: Cross-platform input hooks · Stealth techniques · Keystroke bufferi
 | ✂️ **tcpdump** | ██████░░░░ Intermediate | CLI filtering, session reconstruction |
 | 📶 **Aircrack-ng** | ██████░░░░ Intermediate | WPA/WPA2 capture & cracking |
 
+#### 🟣 Post-Exploitation
+ 
+| Tool | Proficiency | Notes |
+|------|-------------|-------|
+| 🔍 **LinPEAS** | ███████░░░ Advanced | Linux privesc enumeration — SUID, cron jobs, weak permissions, misconfigs |
+| 🔍 **WinPEAS** | ███████░░░ Advanced | Windows privesc — unquoted paths, AlwaysInstallElevated, stored creds |
+| 🧠 **Mimikatz** | ███████░░░ Advanced | NTLM hash dumping, plaintext password extraction, Pass-the-Hash |
+| 🗃️ **Metasploit Post Modules** | ████████░░ Expert | `getsystem`, `hashdump`, `migrate`, `local_exploit_suggester` |
+| 🔑 **Secretsdump (Impacket)** | ██████░░░░ Intermediate | Remote SAM/NTDS hash extraction over the network |
+| 📋 **LinEnum** | ██████░░░░ Intermediate | Manual-style Linux enumeration, cross-checking LinPEAS results |
+| 📁 **Pspy** | ██████░░░░ Intermediate | Unprivileged process monitoring — catching root cron jobs live |
+| 🐚 **PowerShell Empire Modules** | ██████░░░░ Intermediate | Windows enumeration, local admin discovery, persistence research |
+ 
 </div>
 
 ---

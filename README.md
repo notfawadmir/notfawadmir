@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
 <a href="https://github.com/notfawadmir">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:001a0d,100:0d1117&height=220&section=header&text=FAWAD%20AHMED%20MIR&fontSize=52&fontColor=00ff41&fontAlignY=55&desc=Offensive%20Security%20%7C%20Penetration%20Tester%20%7C%20Security%20Researcher&descSize=16&descAlignY=75&descColor=4af626&animation=twinkling&stroke=00ff41&strokeWidth=1" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:001a0d,100:0d1117&height=220&section=header&text=FAWAD%20AHMED%20MIR&fontSize=52&fontColor=00ff41&fontAlignY=55&desc=Self-Taught%20Penetration%20Tester%20%7C%20Offensive%20Security%20%7C%20Red%20Team%20Tooling&descSize=16&descAlignY=75&descColor=4af626&animation=twinkling&stroke=00ff41&strokeWidth=1" alt="Header" width="100%"/>
 </a>
 
-<!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+whoami+--+ethical+hacker;%24+nmap+-sV+--script+vuln+target;%24+msfconsole+-q+-x+%22use+exploit%22;%24+hydra+-l+admin+-P+rockyou.txt+ssh;%24+gobuster+dir+-u+target+-w+wordlist;Breaking+things+to+make+them+stronger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+--+self-taught+penetration+tester;%24+nmap+-sV+-sC+--script+vuln+target.lab;%24+msfconsole+-q+-x+%22use+exploit%2Fmulti%2Fhandler%22;%24+sqlmap+-u+target+--dbs+--batch;%24+gobuster+dir+-u+http%3A%2F%2Ftarget+-w+big.txt;Built+custom+labs.+Broke+them.+Fixed+them." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fawad_Mir-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawad-ahmed-mir/)
 [![Medium](https://img.shields.io/badge/Medium-Writeups-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@fawadmeer000)
@@ -23,34 +21,88 @@
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  $ ./fawad --init                                               │
-│                                                                 │
-│  [+] Loading profile...                                         │
-│  [+] Scanning for vulnerabilities... (it's what I do)          │
-│  [+] Offensive security specialist detected                     │
-│  [+] Ethics module: LOADED                                      │
-│  [*] Ready.                                                     │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  $ ./fawad --init                                                    │
+│                                                                      │
+│  [+] Loading profile...                                              │
+│  [+] Self-taught pentester detected — no hand-holding, no degrees   │
+│  [+] Custom home lab: ONLINE                                         │
+│  [+] Offensive tools: LOADED                                         │
+│  [+] Ethics module: ACTIVE                                           │
+│  [*] Status: Ready to break things responsibly.                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
+
+<br/>
 
 ## `$ whoami`
 
-> I don't just study cybersecurity — I think like an attacker to build better defenses.
+I'm **Fawad Ahmed Mir** — a **self-taught penetration tester and security researcher** from Pakistan who learned by doing, not by sitting in classrooms.
 
-I'm a **self-taught penetration tester and security researcher** based in Pakistan, obsessed with the intersection of low-level systems, offensive tooling, and the never-ending cat-and-mouse of digital warfare. My work lives at the edge: understanding how malware breathes, how networks leak, and how web applications quietly beg to be broken.
+No bootcamp walked me through it. I built my own vulnerable environments from scratch, attacked them, documented what broke and why, and built the tools I wished existed. That process — of constructing real attack surfaces and systematically dismantling them — is how I learned to think like both an attacker and a defender simultaneously.
 
-By day I'm dissecting CVEs and building security tools. By night I'm probably in a CTF or reverse engineering something that wasn't meant to be reversed. Every tool I publish is a lesson — for myself and for the defenders who need to understand what's coming at them.
+My work spans web application exploitation, network penetration testing, offensive tool development, and malware analysis. Every project I publish started as a question I couldn't find a good answer to. Every tool I've written is a weapon I needed and built myself.
 
-I write clean, intentional code. I document everything. And I believe the best security engineers are the ones who can switch hats without blinking.
+> *"The self-taught hacker doesn't wait for permission to learn — they build the lab, set up the target, and start scanning."*
 
-**Current focus:** Advanced penetration testing methodologies · Offensive tool development · Malware analysis · Web application security
+**Current focus:** Advanced web application pentesting · Red team tooling · Malware mechanics · Network exploitation
+
+<br/>
+
+---
+
+## `$ cat /home/fawad/lab/README` — Custom Home Lab Setup
+
+> This is what separates me from people who only watch tutorials. I built real, exploitable environments — and then broke them.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🖥️ Windows Lab Targets
+
+| Service | Platform | Purpose |
+|---------|----------|---------|
+| 🗂️ **SMB (Samba)** | Windows 7 | EternalBlue / credential attacks / lateral movement practice |
+| 📁 **WebDAV** | Windows | File upload exploitation, RCE via WebDAV misconfiguration |
+| 📤 **FTP Server** | Windows | Anonymous login, brute force, file exfil simulation |
+| 🌐 **HTTP Services** | Windows/Linux | Web app vuln testing, directory busting, auth bypass |
+
+    </td>
+    <td width="50%" valign="top">
+
+### ⚙️ Lab Methodology
+
+```
+Phase 1: Service Setup
+  → Deliberately misconfigure services
+  → Expose known vulnerabilities
+
+Phase 2: Attack
+  → Recon → Enumeration → Exploitation
+  → Post-exploitation → Lateral movement
+
+Phase 3: Analyze
+  → Review logs, packet captures
+  → Document attack chain
+
+Phase 4: Harden
+  → Patch, reconfigure, re-attack
+```
+
+    </td>
+  </tr>
+</table>
+
+**Why this matters:** Anyone can run Metasploit against a pre-built VM. Building and configuring the *targets themselves* requires understanding how services work at the system level — why they're exploitable, not just *that* they're exploitable. That deeper understanding is what makes the difference in real engagements.
+
+<br/>
 
 ---
 
 ## `$ ls -la /projects` — Featured Arsenal
 
-> These aren't portfolio pieces. They're proof of work.
+> These aren't portfolio pieces. They're proof of work — built to solve real problems in real engagements.
 
 ---
 
@@ -62,9 +114,9 @@ I write clean, intentional code. I document everything. And I believe the best s
 ![Language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Category](https://img.shields.io/badge/Recon-Offensive-00ff41?style=flat-square)
 
-The reconnaissance gap between "I have a target" and "I know what to hit" is where most pentesters waste hours. **Scanibal closes that gap.** It automates the tedious pipeline of target enumeration → service fingerprinting → vulnerability identification, giving you a clear attack surface map before you've touched Metasploit.
+The gap between "I have a target" and "I know what to hit" is where most pentesters waste hours. **Scanibal closes it.** It chains target enumeration → service fingerprinting → vulnerability identification into one streamlined pipeline — so you walk into exploitation with a clear attack surface map, not guesswork.
 
-Built for speed, built for real engagements. Not a toy.
+Built because I got tired of running five tools manually and stitching the output together by hand.
 
 ```
 Capabilities: Automated scanning · Service enumeration · Vuln fingerprinting · Target profiling
@@ -82,7 +134,9 @@ Capabilities: Automated scanning · Service enumeration · Vuln fingerprinting �
 ![Language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Category](https://img.shields.io/badge/Web-Red_Team-ff4444?style=flat-square)
 
-Web apps are the softest targets — and most organizations don't know it until it's too late. **WebHawk** maps injection points, misconfigurations, and broken authentication flows that scanners miss. Purpose-built for security researchers who need precision, not noise.
+Web applications are the most attacked surface — and most organizations are completely unaware of their exposure until it's too late. **WebHawk** maps injection points, authentication flaws, and misconfigurations that automated scanners routinely miss. Built for precision, not noise.
+
+Tested and refined against my own custom web lab environments before release.
 
 ```
 Capabilities: SQLi/XSS detection · Auth bypass testing · Misconfiguration discovery · Recon automation
@@ -100,9 +154,9 @@ Capabilities: SQLi/XSS detection · Auth bypass testing · Misconfiguration disc
 ![Language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Category](https://img.shields.io/badge/Malware-Analysis-ff0000?style=flat-square)
 
-> ⚠️ *Strictly educational. Deployed in isolated lab environments only.*
+> ⚠️ *Strictly educational. Built and run in isolated lab environments only.*
 
-You can't build ransomware defenses if you don't understand ransomware mechanics. This project dissects **file encryption workflows, key management, and ransom logic** at the code level — giving defenders and analysts the inside view they need to recognize, detect, and neutralize real-world variants.
+You cannot build effective ransomware defenses without understanding ransomware internals. This project dissects **encryption workflows, key lifecycle management, and payload delivery mechanics** at the code level — giving defenders and analysts the inside view they need to detect and neutralize real-world variants before they trigger.
 
 ```
 Internals: AES file encryption · Key lifecycle management · Payload delivery mechanics
@@ -120,9 +174,9 @@ Internals: AES file encryption · Key lifecycle management · Payload delivery m
 ![Language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Category](https://img.shields.io/badge/Endpoint-Research-ff0000?style=flat-square)
 
-> ⚠️ *Strictly educational. Deployed in isolated lab environments only.*
+> ⚠️ *Strictly educational. Built and run in isolated lab environments only.*
 
-Understanding how keyloggers operate at the OS level is non-negotiable for anyone building endpoint security. This cross-platform implementation documents **input event capture, privilege handling, and covert operation techniques** — the exact attack surface your EDR needs to monitor.
+Endpoint security can't catch what it doesn't understand. This cross-platform implementation maps **input event capture at the OS level, privilege handling, and exfiltration simulation** — exposing the exact attack surface your EDR needs to monitor. Built to answer "how does this actually work" — not just "does it work."
 
 ```
 Internals: Cross-platform input hooks · Stealth techniques · Keystroke buffering & exfil simulation
@@ -130,96 +184,68 @@ Internals: Cross-platform input hooks · Stealth techniques · Keystroke bufferi
 
 </details>
 
----
-
-## `$ cat /etc/security-philosophy`
-
-```yaml
-# fawad.conf
-
-mindset:
-  primary: "Think offense. Build defense."
-  secondary: "If you can't break it, you don't understand it."
-
-approach:
-  - Understand the system before touching it
-  - Document every step — reproducibility matters
-  - Share knowledge; security improves collectively
-  - Ethics aren't a constraint — they're the foundation
-
-specialization:
-  - Offensive security tooling (Python, C++)
-  - Web application penetration testing
-  - Malware analysis & reverse engineering
-  - Network reconnaissance & exploitation
-
-operating_system: Kali Linux (obviously)
-coffee_dependency: critical
-cats: beloved
-```
+<br/>
 
 ---
 
-## `$ skill --list --sort=proficiency`
+## `$ skill --list --verbose`
 
 ### ⚔️ Offensive Security Toolkit
 
-> Full junior penetration testing methodology — recon to post-exploitation.
+> Methodology-driven approach: Recon → Enumeration → Exploitation → Post-Exploitation → Reporting
 
 <div align="center">
 
 #### 🔴 Exploitation & Post-Exploitation
 
-| Tool | Category | Proficiency |
-|------|----------|-------------|
-| 💥 **Metasploit Framework** | Exploitation & Post-Exploitation | ████████░░ **Expert** |
-| 🐚 **Netcat (nc)** | Reverse Shells, Pivoting & Port Scanning | ████████░░ **Expert** |
-| 🔓 **John the Ripper** | Password Cracking | ███████░░░ Advanced |
-| #️⃣ **Hashcat** | GPU Hash Cracking | ███████░░░ Advanced |
+| Tool | Proficiency | Notes |
+|------|-------------|-------|
+| 💥 **Metasploit Framework** | ████████░░ Expert | Used against custom lab targets (SMB, WebDAV, HTTP) |
+| 🐚 **Netcat** | ████████░░ Expert | Reverse shells, port pivoting, banner grabbing |
+| 🔓 **John the Ripper** | ███████░░░ Advanced | Hash cracking, custom rules, wordlist optimization |
+| #️⃣ **Hashcat** | ███████░░░ Advanced | GPU-accelerated cracking, mask attacks |
 
-#### 🟠 Credential Attacks & Brute Force
+#### 🟠 Credential Attacks
 
-| Tool | Category | Proficiency |
-|------|----------|-------------|
-| 🔑 **Hydra** | Network Authentication Brute Force | ████████░░ **Expert** |
-| 🧠 **Medusa** | Parallel Credential Testing | ████████░░ **Expert** |
-| 🗝️ **CrackMapExec** | SMB / Active Directory Attacks | ██████░░░░ Intermediate |
+| Tool | Proficiency | Notes |
+|------|-------------|-------|
+| 🔑 **Hydra** | ████████░░ Expert | Brute forced FTP/SSH/HTTP in lab environments |
+| 🧠 **Medusa** | ████████░░ Expert | Parallel login attacks, protocol coverage |
+| 🗝️ **CrackMapExec** | ██████░░░░ Intermediate | SMB enumeration, pass-the-hash attacks |
 
 #### 🟡 Recon & Enumeration
 
-| Tool | Category | Proficiency |
-|------|----------|-------------|
-| 🗺️ **Nmap** | Network Recon & Port Scanning | ████████░░ **Expert** |
-| 🌾 **theHarvester** | OSINT & Email Harvesting | ███████░░░ Advanced |
-| 🔍 **enum4linux** | SMB / Samba Enumeration | ███████░░░ Advanced |
-| 📡 **Netdiscover** | Passive Host Discovery | ███████░░░ Advanced |
+| Tool | Proficiency | Notes |
+|------|-------------|-------|
+| 🗺️ **Nmap** | ████████░░ Expert | Service fingerprinting, NSE scripts, OS detection |
+| 🌾 **theHarvester** | ███████░░░ Advanced | OSINT, email/subdomain harvesting |
+| 🔍 **enum4linux** | ███████░░░ Advanced | SMB/Samba enumeration (used against custom Windows lab) |
+| 📡 **Netdiscover** | ███████░░░ Advanced | ARP-based host discovery |
 
 #### 🟢 Web Application Testing
 
-| Tool | Category | Proficiency |
-|------|----------|-------------|
-| 🕷️ **Burp Suite** | Web Interception & Testing | ████████░░ **Expert** |
-| 💉 **sqlmap** | Automated SQL Injection | ████████░░ **Expert** |
-| 🦆 **Gobuster** | Directory / DNS / VHost Busting | ████████░░ **Expert** |
-| 🌐 **OWASP ZAP** | Web Vulnerability Scanning | ███████░░░ Advanced |
-| 🔎 **Dirb / Dirbuster** | Directory Brute Forcing | ███████░░░ Advanced |
-| 🔬 **Nikto** | Web Server Vulnerability Scanner | ███████░░░ Advanced |
-| 🕸️ **WhatWeb** | Web Technology Fingerprinting | ██████░░░░ Intermediate |
+| Tool | Proficiency | Notes |
+|------|-------------|-------|
+| 🕷️ **Burp Suite** | ████████░░ Expert | Intercept, repeater, intruder, active scanning |
+| 💉 **sqlmap** | ████████░░ Expert | Manual verification + automated exploitation |
+| 🦆 **Gobuster** | ████████░░ Expert | Dir/DNS/VHost busting against custom HTTP services |
+| 🌐 **OWASP ZAP** | ███████░░░ Advanced | Automated + manual web scanning |
+| 🔬 **Nikto** | ███████░░░ Advanced | Server misconfiguration discovery |
+| 🕸️ **WhatWeb** | ██████░░░░ Intermediate | Technology fingerprinting |
 
-#### 🔵 Network Analysis & Wireless
+#### 🔵 Network & Wireless
 
-| Tool | Category | Proficiency |
-|------|----------|-------------|
-| 🦈 **Wireshark** | Deep Packet Analysis | ███████░░░ Advanced |
-| ✂️ **tcpdump** | CLI Packet Capture & Filtering | ██████░░░░ Intermediate |
-| 📶 **Aircrack-ng** | Wireless Security Testing | ██████░░░░ Intermediate |
-| 📡 **Wifite** | Automated Wireless Attacks | ██████░░░░ Intermediate |
+| Tool | Proficiency | Notes |
+|------|-------------|-------|
+| 🦈 **Wireshark** | ███████░░░ Advanced | Packet analysis of lab traffic captures |
+| ✂️ **tcpdump** | ██████░░░░ Intermediate | CLI filtering, session reconstruction |
+| 📶 **Aircrack-ng** | ██████░░░░ Intermediate | WPA/WPA2 capture & cracking |
 
 </div>
 
 ---
 
-### 💻 Languages & Core Development
+### 💻 Languages & Development
 
 <div align="center">
 
@@ -228,27 +254,27 @@ cats: beloved
     <td align="center" width="96">
       <img alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
       <br/><sub><b>Python</b></sub>
-      <br/><sub>Primary</sub>
+      <br/><sub>Primary · Tool Dev</sub>
     </td>
     <td align="center" width="96">
       <img alt="C++" width="48" height="48" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" />
       <br/><sub><b>C++</b></sub>
-      <br/><sub>Systems</sub>
+      <br/><sub>Systems · Low-level</sub>
     </td>
     <td align="center" width="96">
       <img alt="Bash" width="48" height="48" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg?raw=true" />
       <br/><sub><b>Bash</b></sub>
-      <br/><sub>Automation</sub>
+      <br/><sub>Scripting · Automation</sub>
     </td>
     <td align="center" width="96">
       <img alt="JavaScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
       <br/><sub><b>JavaScript</b></sub>
-      <br/><sub>Web Layer</sub>
+      <br/><sub>Web Attack Surface</sub>
     </td>
     <td align="center" width="96">
       <img alt="MySQL" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
       <br/><sub><b>MySQL</b></sub>
-      <br/><sub>Data Layer</sub>
+      <br/><sub>SQLi Practice</sub>
     </td>
   </tr>
 </table>
@@ -257,101 +283,35 @@ cats: beloved
 
 ---
 
-### 🕸️ Web Scraping & Automation
+## `$ cat ~/philosophy.conf`
 
-<div align="center">
+```yaml
+# fawad.yaml — Operational Mindset
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img alt="Requests" width="48" height="48" src="https://raw.githubusercontent.com/psf/requests/main/docs/_static/requests-sidebar.png" />
-      <br/><sub><b>Requests</b></sub>
-      <br/><sub>HTTP Client</sub>
-    </td>
-    <td align="center" width="110">
-      <img alt="BeautifulSoup4" width="48" height="48" src="https://avatars.githubusercontent.com/u/25501657?s=200&v=4" />
-      <br/><sub><b>BeautifulSoup4</b></sub>
-      <br/><sub>HTML Parsing</sub>
-    </td>
-    <td align="center" width="110">
-      <img alt="Selenium" width="48" height="48" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg?raw=true" />
-      <br/><sub><b>Selenium</b></sub>
-      <br/><sub>Browser Automation</sub>
-    </td>
-  </tr>
-</table>
+origin: Self-taught — no university, no bootcamp, no shortcuts
+method: Build it. Break it. Document it. Repeat.
 
-</div>
+principles:
+  - If you can't build the target, you don't understand the attack
+  - Tool users are operators. Tool builders are engineers.
+  - Every lab session is a paper trail — document or it didn't happen
+  - Ethics aren't a constraint. They're what separates security research from crime.
 
----
+specializations:
+  - Offensive tool development (Python, C++)
+  - Web application penetration testing (OWASP Top 10 + beyond)
+  - Custom vulnerable lab construction & exploitation
+  - Malware mechanics & analysis
+  - Network reconnaissance & service exploitation
 
-### 🤖 ML / Data Science
+home_lab:
+  services_attacked: [SMB, WebDAV, FTP, HTTP, HTTPS]
+  platforms: [Windows 7, Windows 10, Linux]
+  approach: Build → Misconfigure → Attack → Analyze → Harden
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img alt="TensorFlow" width="45" height="45" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-      <br/><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="PyTorch" width="45" height="45" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-      <br/><sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="Scikit-learn" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-      <br/><sub><b>Scikit-learn</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="NumPy" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original.svg?raw=true" />
-      <br/><sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="Pandas" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-      <br/><sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="Matplotlib" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg?raw=true" />
-      <br/><sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="Seaborn" width="45" height="45" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-      <br/><sub><b>Seaborn</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### ⚙️ Environment & Infrastructure
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img alt="Linux" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg?raw=true" />
-      <br/><sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="Docker" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg?raw=true" />
-      <br/><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="HTML5" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-      <br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img alt="CSS3" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg?raw=true" />
-      <br/><sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+operating_system: Kali Linux
+coffee: mission-critical
+```
 
 ---
 
@@ -367,13 +327,15 @@ cats: beloved
 
 <br/><br/>
 
+> 🎯 *Currently grinding toward eJPT and eventually OSCP — the only cert that matters in this field.*
+
 [![Credly](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/notfawadmir)
 
 </div>
 
 ---
 
-## `$ git log --oneline --stats` — GitHub Activity
+## `$ git log --oneline` — GitHub Activity
 
 <div align="center">
 
@@ -392,7 +354,7 @@ cats: beloved
 
 ---
 
-## `$ curl -O fawad.mir/cv` — Get My CV
+## `$ curl -O fawad.mir/cv`
 
 <div align="center">
 
@@ -404,12 +366,12 @@ cats: beloved
 
 ---
 
-## `$ nc -lvp 4444` — Open Channels
+## `$ nc -lvp 4444` — Reach Me
 
 <div align="center">
 
-> I'm always open to collaborations, bug bounty hunting, security research, and conversations about offensive tooling.
-> If you've found a vulnerability, have a project in mind, or just want to talk shop — reach out.
+> Open to: penetration testing roles, bug bounty collaboration, security research, red team tooling projects, and CTF teamups.
+> If you have a target (with permission), a project, or just want to talk shop — the port is open.
 
 <br/>
 
@@ -430,10 +392,10 @@ cats: beloved
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   "The quieter you become, the more you are able to hear."          │
-│                                             — Kali Linux motto      │
+│  The best pentesters aren't the ones with the most certs.           │
+│  They're the ones who built a lab at 2am just to see if it works.  │
 │                                                                      │
-│   ⭐ Star a repo if it helped you. It costs nothing.               │
+│  ⭐ If a repo helped you, star it. It costs nothing.               │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```

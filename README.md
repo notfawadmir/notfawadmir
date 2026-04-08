@@ -55,44 +55,23 @@ My work spans web application exploitation, network penetration testing, offensi
 
 > This is what separates me from people who only watch tutorials. I built real, exploitable environments — and then broke them.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 🖥️ Lab Services & Targets
 
-### 🖥️ Windows Lab Targets
-
-| Service | Platform | Purpose |
-|---------|----------|---------|
-| 🗂️ **SMB (Samba)** | Windows 7 | EternalBlue / credential attacks / lateral movement practice |
-| 📁 **WebDAV** | Windows | File upload exploitation, RCE via WebDAV misconfiguration |
-| 📤 **FTP Server** | Windows | Anonymous login, brute force, file exfil simulation |
-| 🌐 **HTTP Services** | Windows/Linux | Web app vuln testing, directory busting, auth bypass |
-
-    </td>
-    <td width="50%" valign="top">
+| Service | Platform | Attack Vectors Practiced |
+|---------|----------|--------------------------|
+| 🗂️ **SMB (Samba)** | Windows 7 | EternalBlue, credential attacks, lateral movement |
+| 📁 **WebDAV** | Windows | File upload exploitation, RCE via misconfiguration |
+| 📤 **FTP Server** | Windows | Anonymous login abuse, brute force, file exfil |
+| 🌐 **HTTP/S Services** | Windows & Linux | Web vuln testing, directory busting, auth bypass |
 
 ### ⚙️ Lab Methodology
 
 ```
-Phase 1: Service Setup
-  → Deliberately misconfigure services
-  → Expose known vulnerabilities
-
-Phase 2: Attack
-  → Recon → Enumeration → Exploitation
-  → Post-exploitation → Lateral movement
-
-Phase 3: Analyze
-  → Review logs, packet captures
-  → Document attack chain
-
-Phase 4: Harden
-  → Patch, reconfigure, re-attack
+Phase 1 — Build    →  Set up and deliberately misconfigure each service
+Phase 2 — Attack   →  Recon → Enumeration → Exploitation → Post-exploitation
+Phase 3 — Analyze  →  Review logs & packet captures, document full attack chain
+Phase 4 — Harden   →  Patch, reconfigure, then attack again to verify the fix
 ```
-
-    </td>
-  </tr>
-</table>
 
 **Why this matters:** Anyone can run Metasploit against a pre-built VM. Building and configuring the *targets themselves* requires understanding how services work at the system level — why they're exploitable, not just *that* they're exploitable. That deeper understanding is what makes the difference in real engagements.
 

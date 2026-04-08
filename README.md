@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=FAWAD%20AHMED%20MIR&fontColor=00ff41&fontSize=52&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Researcher%20%7C%20Malware%20Analyst&descAlignY=58&descSize=16&descColor=00cc33&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=FAWAD%20AHMED%20MIR&fontColor=00ff41&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=58&descSize=16&descColor=00cc33&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+INITIALIZING...+%5D;%5B+TARGET+ACQUIRED+%5D;%5B+RUNNING+EXPLOIT...+%5D;%5B+ACCESS+GRANTED+%5D;Hello%2C+I%27m+Fawad+%E2%80%94+Welcome+to+My+Profile;Ethical+Hacker+%7C+CTF+Player+%7C+Security+Builder;Python+%2F+C%2B%2B+%2F+Offensive+Security+Tools;All+Systems+Operational+%E2%9C%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+INITIALIZING...+%5D;Frontend+Developer+%7C+HTML+%2F+CSS+%2F+JavaScript;Penetration+Tester+%7C+CTF+Player+%7C+Security+Builder;Building+Secure+%26+Beautiful+Web+Experiences;Python+%2F+C%2B%2B+%2F+Offensive+Security+Tools;%5B+ALL+SYSTEMS+OPERATIONAL+%E2%9C%94+%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -46,16 +46,49 @@
 ┌──(fawad㉿kali)-[~]
 └─$ cat about.txt
 
-  [*] Role      : Penetration Tester & Security Researcher
-  [*] Focus     : Offensive Security, Malware Analysis, CTFs
+  [*] Role      : Frontend Developer & Penetration Tester
+  [*] Frontend  : HTML | CSS | JavaScript | Responsive Design
+  [*] Security  : Offensive Security | Malware Analysis | CTFs
   [*] Languages : Python | C++ | JavaScript | MySQL | Bash
   [*] Learning  : Advanced Cybersecurity & Red Teaming
-  [*] Ask me    : C++ / Python / Web App Pentesting
+  [*] Portfolio : https://yourportfolio.dev   ← add your link
+  [*] Building  : [Your current project — update this!]
   [*] Contact   : fawadmeer000@gmail.com
-  [*] Fun fact  : I Love Cats 🐈 & Breaking Things Legally
+  [*] Fun fact  : I break things legally AND build beautiful UIs 🐈
 ```
 
 <br clear="right"/>
+
+---
+
+<!-- ============================================================ -->
+<!--              WHAT I DO — DUAL IDENTITY CARDS                -->
+<!-- ============================================================ -->
+
+## `> cat roles.txt`
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 Frontend Developer
+Building clean, responsive web interfaces using HTML5, CSS3 & JavaScript. Focused on UI/UX fundamentals, performance, and writing maintainable code from scratch without bloated frameworks.
+
+</td>
+<td align="center" width="50%">
+
+### 🔴 Security Researcher
+Penetration testing, malware analysis, CTF competitions, and building offensive security tools. Bridging the gap between development and defense.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -65,33 +98,83 @@
 
 ## `> ls -la ./projects/`
 
+> 📸 **Note:** Replace the `preview.png` links below with actual screenshots from your repos.
+> Add a `/assets/preview.png` screenshot to each repo, then the images will display correctly.
+
 <br/>
+
+### 🌐 Web & Frontend Projects
 
 <div align="center">
 
-<a href="https://github.com/notfawadmir/Scanibal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Scanibal&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" />
-</a>
-&nbsp;
-<a href="https://github.com/notfawadmir/WebHawk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=WebHawk&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br/><br/>
+**[Project Name Here](https://github.com/notfawadmir/YOUR-FRONTEND-REPO)**
 
-<a href="https://github.com/notfawadmir/Ransomeware">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Ransomeware&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3131&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131" />
-</a>
-&nbsp;
-<a href="https://github.com/notfawadmir/Keylogger">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Keylogger&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3131&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131" />
-</a>
+<!-- Replace with: https://github.com/notfawadmir/REPO/raw/main/assets/preview.png -->
+[![Frontend Project](https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=YOUR-FRONTEND-REPO&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&show_owner=true)](https://github.com/notfawadmir/YOUR-FRONTEND-REPO)
+
+</td>
+<td align="center" width="50%">
+
+**[Project Name Here](https://github.com/notfawadmir/YOUR-SECOND-FRONTEND-REPO)**
+
+<!-- Replace with: https://github.com/notfawadmir/REPO/raw/main/assets/preview.png -->
+[![Frontend Project 2](https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=YOUR-SECOND-FRONTEND-REPO&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&show_owner=true)](https://github.com/notfawadmir/YOUR-SECOND-FRONTEND-REPO)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-> 🟢 **Green** = Recon & Web Tools &nbsp;|&nbsp; 🔴 **Red** = Malware Research *(strictly educational — for understanding threats & building defenses)*
+### 🔒 Security & Recon Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![Scanibal](https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Scanibal&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&show_owner=true)](https://github.com/notfawadmir/Scanibal)
+
+</td>
+<td align="center" width="50%">
+
+[![WebHawk](https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=WebHawk&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&show_owner=true)](https://github.com/notfawadmir/WebHawk)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+### ⚠️ Malware Research *(strictly educational — for understanding threats & building defenses)*
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![Ransomware](https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Ransomeware&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3131&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131&show_owner=true)](https://github.com/notfawadmir/Ransomeware)
+
+</td>
+<td align="center" width="50%">
+
+[![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Keylogger&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3131&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131&show_owner=true)](https://github.com/notfawadmir/Keylogger)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -117,12 +200,18 @@
 
 ---
 
-### 🎨 Front End
+### 🌐 Frontend Development
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0D6EFD?style=for-the-badge&logo=googlechrome&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -187,7 +276,6 @@
 
 <!-- ============================================================ -->
 <!--                   GITHUB STATS                              -->
-<!-- NOTE: Uses correct param names — bg_color not background    -->
 <!-- ============================================================ -->
 
 ## `> ./stats --user notfawadmir`
@@ -221,6 +309,58 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=notfawadmir&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&border_color=00ff41"/>
 
 </div>
+
+---
+
+<!-- ============================================================ -->
+<!--              SNAKE CONTRIBUTION ANIMATION                   -->
+<!-- Setup: Create .github/workflows/snake.yml (see below)       -->
+<!-- ============================================================ -->
+
+## `> ./contributions --animated`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notfawadmir/notfawadmir/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notfawadmir/notfawadmir/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/notfawadmir/notfawadmir/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<!--
+  ══════════════════════════════════════════════════════
+  TO ENABLE THE SNAKE ABOVE:
+  1. Create file: .github/workflows/snake.yml in THIS repo
+  2. Paste the following content into it:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: notfawadmir
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to Actions tab → Run workflow manually once
+  4. The snake will then auto-update daily
+  ══════════════════════════════════════════════════════
+-->
 
 ---
 

@@ -1,356 +1,309 @@
+<!-- ============================================================ -->
+<!--                  ANIMATED CYBER HEADER                      -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<a href="#">
-  <img src="./assets/banner.png" alt="Fawad Ahmed Mir" style="display: block; height: 300px; width: 100%; object-fit: stretch;" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=FAWAD%20AHMED%20MIR&fontColor=00ff41&fontSize=52&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Researcher%20%7C%20Malware%20Analyst&descAlignY=58&descSize=16&descColor=00cc33&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
 
-<img src="./assets/arrow.gif" alt="Arrow"/>
+</div>
 
-# 👾 Fawad Ahmed Mir
+<!-- ============================================================ -->
+<!--                    TYPING ANIMATION                          -->
+<!-- ============================================================ -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=dark)](https://www.linkedin.com/in/fawad-ahmed-mir/)
+<div align="center">
 
-<img src="./assets/arrow.gif" alt="Arrow"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+INITIALIZING...+%5D;%5B+TARGET+ACQUIRED+%5D;%5B+RUNNING+EXPLOIT...+%5D;%5B+ACCESS+GRANTED+%5D;Hello%2C+I%27m+Fawad+%E2%80%94+Welcome+to+My+Profile;Ethical+Hacker+%7C+CTF+Player+%7C+Security+Builder;Python+%2F+C%2B%2B+%2F+Offensive+Security+Tools;All+Systems+Operational+%E2%9C%94)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=notfawadmir&color=blue&style=flat-square)
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  PROFILE STATS BAR                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=notfawadmir&data=followers,repositories,stars,commits&theme=darkmode)](https://www.linkedin.com/in/fawad-ahmed-mir/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=notfawadmir&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ============================================================ -->
+<!--                    ABOUT ME SECTION                         -->
+<!-- ============================================================ -->
 
-<img align="right" width="100px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="notfawadmir" />
+## `> whoami`
 
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-- 💬 Ask me about **C++ / Python / Web Security**
-- 🌱 Currently deepening my skills in **Penetration Testing & Offensive Security**
-- 📫 Reach me at [fawadmeer000@gmail.com](mailto:fawadmeer000@gmail.com)
-- ⚡ Fun fact: **I Love Cats 🐈**
+<img align="right" width="120px" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="hacking gif"/>
 
-<div align="center"><img src="./assets/arrow.gif" alt="Arrow"/></div>
+```bash
+┌──(fawad㉿kali)-[~]
+└─$ cat about.txt
 
----
+  [*] Role      : Penetration Tester & Security Researcher
+  [*] Focus     : Offensive Security, Malware Analysis, CTFs
+  [*] Languages : Python | C++ | JavaScript | MySQL | Bash
+  [*] Learning  : Advanced Cybersecurity & Red Teaming
+  [*] Ask me    : C++ / Python / Web App Pentesting
+  [*] Contact   : fawadmeer000@gmail.com
+  [*] Fun fact  : I Love Cats 🐈 & Breaking Things Legally
+```
 
-## 💼 Featured Projects & Contributions
-
-> A curated selection of security tools and research projects reflecting my focus on offensive security, malware analysis, and penetration testing.
-
----
-
-### 🦷 1. [Scanibal](https://github.com/notfawadmir/Scanibal)
-
-A powerful network and vulnerability scanning tool built for offensive security assessments. Scanibal streamlines the reconnaissance phase by automating target enumeration, service detection, and vulnerability fingerprinting — giving penetration testers a faster path from discovery to exploitation.
-
-**Highlights:** Automated scanning · Service enumeration · Vulnerability fingerprinting
+<br clear="right"/>
 
 ---
 
-### 🦅 2. [WebHawk](https://github.com/notfawadmir/WebHawk)
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECTS                        -->
+<!-- ============================================================ -->
 
-A web application security tool designed for identifying and exploiting common web vulnerabilities. WebHawk assists security researchers and ethical hackers in discovering misconfigurations, injection points, and authentication weaknesses across web targets.
+## `> ls -la ./projects/`
 
-**Highlights:** Web vulnerability detection · Injection testing · Recon automation
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/notfawadmir/Scanibal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Scanibal&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" />
+</a>
+&nbsp;
+<a href="https://github.com/notfawadmir/WebHawk">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=WebHawk&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/notfawadmir/Ransomeware">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Ransomeware&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3131&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131" />
+</a>
+&nbsp;
+<a href="https://github.com/notfawadmir/Keylogger">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=notfawadmir&repo=Keylogger&theme=chartreuse-dark&bg_color=0d1117&border_color=ff3131&title_color=ff3131&text_color=c9d1d9&icon_color=ff3131" />
+</a>
+
+</div>
+
+<br/>
+
+> 🟢 **Green** = Recon & Web Tools &nbsp;|&nbsp; 🔴 **Red** = Malware Research *(strictly educational — for understanding threats & building defenses)*
 
 ---
 
-### 🔒 3. [Ransomware](https://github.com/notfawadmir/Ransomeware)
+<!-- ============================================================ -->
+<!--                   SKILLS & TOOLS                           -->
+<!-- ============================================================ -->
 
-> ⚠️ *For educational and research purposes only.*
+## `> cat skills.cfg`
 
-An educational implementation of ransomware mechanics written to demonstrate how file encryption, key management, and ransom workflows function at the code level. This project provides cybersecurity students and analysts with an inside look at how ransomware operates — critical knowledge for building effective defenses.
-
-**Highlights:** File encryption · Key management · Malware analysis education
-
----
-
-### ⌨️ 4. [Keylogger](https://github.com/notfawadmir/Keylogger)
-
-> ⚠️ *For educational and research purposes only.*
-
-A cross-platform keylogger built to illustrate how keystroke capture malware works under the hood. Designed for security researchers studying endpoint threats, this project demonstrates input monitoring techniques and helps defenders understand the attack surface they need to protect.
-
-**Highlights:** Keystroke monitoring · Cross-platform · Security research
-
----
-
-<div align="center"><img src="./assets/arrow.gif" alt="Arrow"/></div>
-
----
-
-## 🛠️ My Skill Sets
+<br/>
 
 ### 🗣️ Languages
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.python.org/" target="_blank">
-        <img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
-      </a>
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://isocpp.org/" target="_blank">
-        <img alt="C++" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" />
-      </a>
-      <br><b>C++</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-      </a>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-      </a>
-      <br><b>MySQL</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
 
 ---
 
 ### 🎨 Front End
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img alt="HTML" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-      </a>
-      <br><b>HTML</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.w3.org/Style/CSS/" target="_blank">
-        <img alt="CSS" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" />
-      </a>
-      <br><b>CSS</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
 ### 🤖 ML / Data Science
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://numpy.org/" target="_blank">
-        <img alt="NumPy" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original.svg" />
-      </a>
-      <br><b>NumPy</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img alt="Pandas" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-      </a>
-      <br><b>Pandas</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://matplotlib.org/" target="_blank">
-        <img alt="Matplotlib" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg" />
-      </a>
-      <br><b>Matplotlib</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://seaborn.pydata.org/" target="_blank">
-        <img alt="Seaborn" width="45" height="45" style="padding:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-      </a>
-      <br><b>Seaborn</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.tensorflow.org/" target="_blank">
-        <img alt="TensorFlow" width="45" height="45" style="padding:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-      </a>
-      <br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://pytorch.org/" target="_blank">
-        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-      </a>
-      <br><b>PyTorch</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img alt="Scikit-learn" width="45" height="45" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-      </a>
-      <br><b>Scikit-learn</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://selenium.dev/" target="_blank">
-        <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg" />
-      </a>
-      <br><b>Selenium</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔒 Security & Penetration Testing Tools
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://nmap.org/" target="_blank">
-        <img alt="Nmap" width="45" height="45" style="padding:10px;" src="https://www.svgrepo.com/show/354111/nmap.svg" />
-      </a>
-      <br><b>Nmap</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://sqlmap.org/" target="_blank">
-        <img alt="sqlmap" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/1021114?s=200&v=4" />
-      </a>
-      <br><b>sqlmap</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.metasploit.com/" target="_blank">
-        <img alt="Metasploit" width="45" height="45" style="padding:10px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" />
-      </a>
-      <br><b>Metasploit</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-        <img alt="Hydra" width="45" height="45" style="padding:10px;" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" />
-      </a>
-      <br><b>Hydra</b>
-    </td>
-    <td align="center" width="100">
-      <a href https://github.com/jmk-foofus/medusa" target="_blank">
-        <img alt="Medusa" width="45" height="45" style="padding:10px;" src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" />
-      </a>
-      <br><b>Medusa</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.zaproxy.org/" target="_blank">
-        <img alt="ZAP" width="45" height="45" style="padding:10px;" src="https://www.pngfind.com/pngs/m/664-6646318_image-owasp-zap-logo-hd-png-download.png" />
-      </a>
-      <br><b>OWASP ZAP</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://portswigger.net/burp" target="_blank">
-        <img alt="Burp Suite" width="45" height="45" style="padding:10px;" src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon-thumbnail.png" />
-      </a>
-      <br><b>Burp Suite</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚙️ General Tools & Environment
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.docker.com/" target="_blank">
-        <img alt="Docker" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg" />
-      </a>
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img alt="Bash" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" />
-      </a>
-      <br><b>Bash</b>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.linux.org/" target="_blank">
-        <img alt="Linux" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" />
-      </a>
-      <br><b>Linux</b>
-    </td>
-  </tr>
-</table>
-
-<div align="center"><img src="./assets/arrow.gif" alt="Arrow"/></div>
-
----
-
-## 🏅 Certifications & Badges
-
 <div align="center">
-  <a href="https://www.credly.com/badges/e79e2be1-d5cc-4cf2-b54f-2c1f1a781bdb/public_url" target="_blank">
-    <img src="./assets/introduction-to-cybersecurity.png" alt="Introduction to Cyber Security" width="200"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/3e96d751-81b0-47ce-8a32-d327d8cf0315/public_url" target="_blank">
-    <img src="./assets/python-essentials-I.png" alt="Python Essentials I" width="200"/>
-  </a>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 </div>
 
 ---
 
-## 📥 Download My CV
-
-<div align="center">
-  <a href="./assets/CV.pdf" download="CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge&logo=github" alt="Download CV"/>
-  </a>
-</div>
-
-<div align="center"><img src="./assets/arrow.gif" alt="Arrow"/></div>
-
----
-
-## 📊 GitHub Stats
+### 🔴 Offensive Security & Pentesting Tools
 
 <div align="center">
 
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=notfawadmir&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages"/>
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-1A1A2E?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![Medusa](https://img.shields.io/badge/Medusa-6C3483?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0099CC?style=for-the-badge&logo=linux&logoColor=white)
 
-</div>
-
-<div align="center">
-  <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=notfawadmir&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🛠️ Contribution Activity
+### 🖥️ Operating Systems & Lab Environments
 
 <div align="center">
-  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notfawadmir&theme=tokyonight" alt="Contribution Activity"/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
+![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Tails OS](https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![Metasploitable 2](https://img.shields.io/badge/Metasploitable_2-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploitable 3](https://img.shields.io/badge/Metasploitable_3-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![FlareVM](https://img.shields.io/badge/FlareVM_(Mandiant)-E60026?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 </div>
 
 ---
 
-## 🤝 Get in Touch
+<!-- ============================================================ -->
+<!--                   GITHUB STATS                              -->
+<!-- NOTE: Uses correct param names — bg_color not background    -->
+<!-- ============================================================ -->
+
+## `> ./stats --user notfawadmir`
+
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fawad-ahmed-mir">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fawadmeer000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Me%20an%20Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://www.threads.net/@notfawadmir">
-    <img src="https://img.shields.io/badge/Threads-Follow%20my%20Profile-black?style=for-the-badge&logo=threads" alt="Threads"/>
-  </a>
-  <a href="https://www.facebook.com/fawad.mir.2025">
-    <img src="https://img.shields.io/badge/Facebook-Follow%20me-3b5998?style=for-the-badge&logo=facebook" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/923065297526">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
-  </a>
-  <a href="https://instagram.com/notfawadmir">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20me-purple?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@fawadmeer000">
-    <img src="https://img.shields.io/badge/Medium-Follow%20me-black?style=for-the-badge&logo=medium" alt="Medium"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&count_private=true&include_all_commits=true&hide_border=false"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfawadmir&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=false"/>
+
 </div>
 
-<div align="center"><img src="./assets/arrow.gif" alt="Arrow"/></div>
+<div align="center">
+
+<img width="68%" src="https://streak-stats.demolab.com/?user=notfawadmir&theme=terminal&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff3131&currStreakNum=ffffff&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=888888&dates=888888"/>
+
+</div>
 
 ---
 
+<!-- ============================================================ -->
+<!--                  ACTIVITY GRAPH                             -->
+<!-- ============================================================ -->
+
+## `> git log --all --graph`
+
 <div align="center">
-  <sub>⭐ Feel free to star any repo that helps you — it means a lot!</sub>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=notfawadmir&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&border_color=00ff41"/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                CONTRIBUTION SUMMARY                         -->
+<!-- ============================================================ -->
+
+## `> analyze --contributions`
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notfawadmir&theme=github_dark"/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                CERTIFICATIONS & BADGES                      -->
+<!-- ============================================================ -->
+
+## `> ls ./certs/`
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/e79e2be1-d5cc-4cf2-b54f-2c1f1a781bdb/public_url" target="_blank">
+  <img src="./assets/introduction-to-cybersecurity.png" alt="Introduction to Cyber Security" width="180"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/3e96d751-81b0-47ce-8a32-d327d8cf0315/public_url" target="_blank">
+  <img src="./assets/python-essentials-I.png" alt="Python Essentials I" width="180"/>
+</a>
+
+</div>
+
+---
+
+## `> download CV`
+
+<div align="center">
+
+<a href="./assets/CV.pdf" download="Fawad_Ahmed_Mir_CV.pdf">
+  <img src="https://img.shields.io/badge/%E2%AC%87%20Download%20CV-Fawad%20Ahmed%20Mir-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41"/>
+</a>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                    CONTACT SECTION                          -->
+<!-- ============================================================ -->
+
+## `> ./connect --target fawad`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawad-ahmed-mir)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawadmeer000@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notfawadmir)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@notfawadmir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fawad.mir.2025)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923065297526)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fawadmeer000)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                    ANIMATED FOOTER                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&fontColor=00ff41&fontSize=14&text=%5B%20hack%20the%20planet%20%5D&fontAlignY=75&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+```
+[ ALL SYSTEMS OPERATIONAL ] [ STAY ETHICAL ] [ HACK THE PLANET ]
+```
+
 </div>

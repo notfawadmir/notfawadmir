@@ -7,12 +7,11 @@
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+whoami+--+ethical+hacker;%24+nmap+-sV+--script+vuln+target;%24+python+exploit.py+%E2%80%94-payload+shell;%24+cat+%2Fetc%2Fpasswd+%7C+grep+root;Breaking+things+to+make+them+stronger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+whoami+--+ethical+hacker;%24+nmap+-sV+--script+vuln+target;%24+msfconsole+-q+-x+%22use+exploit%22;%24+hydra+-l+admin+-P+rockyou.txt+ssh;%24+gobuster+dir+-u+target+-w+wordlist;Breaking+things+to+make+them+stronger." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL SHIELDS ROW -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fawad_Mir-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawad-ahmed-mir/)
 [![Medium](https://img.shields.io/badge/Medium-Writeups-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@fawadmeer000)
 [![Email](https://img.shields.io/badge/Email-fawadmeer000@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fawadmeer000@gmail.com)
@@ -39,7 +38,7 @@
 
 > I don't just study cybersecurity — I think like an attacker to build better defenses.
 
-I'm a **penetration tester and security researcher** based in Pakistan, obsessed with the intersection of low-level systems, offensive tooling, and the never-ending cat-and-mouse of digital warfare. My work lives at the edge: understanding how malware breathes, how networks leak, and how web applications quietly beg to be broken.
+I'm a **self-taught penetration tester and security researcher** based in Pakistan, obsessed with the intersection of low-level systems, offensive tooling, and the never-ending cat-and-mouse of digital warfare. My work lives at the edge: understanding how malware breathes, how networks leak, and how web applications quietly beg to be broken.
 
 By day I'm dissecting CVEs and building security tools. By night I'm probably in a CTF or reverse engineering something that wasn't meant to be reversed. Every tool I publish is a lesson — for myself and for the defenders who need to understand what's coming at them.
 
@@ -141,7 +140,7 @@ Internals: Cross-platform input hooks · Stealth techniques · Keystroke bufferi
 mindset:
   primary: "Think offense. Build defense."
   secondary: "If you can't break it, you don't understand it."
-  
+
 approach:
   - Understand the system before touching it
   - Document every step — reproducibility matters
@@ -153,7 +152,7 @@ specialization:
   - Web application penetration testing
   - Malware analysis & reverse engineering
   - Network reconnaissance & exploitation
-  
+
 operating_system: Kali Linux (obviously)
 coffee_dependency: critical
 cats: beloved
@@ -165,17 +164,56 @@ cats: beloved
 
 ### ⚔️ Offensive Security Toolkit
 
+> Full junior penetration testing methodology — recon to post-exploitation.
+
 <div align="center">
+
+#### 🔴 Exploitation & Post-Exploitation
 
 | Tool | Category | Proficiency |
 |------|----------|-------------|
-| 🗺️ **Nmap** | Recon & Scanning | ████████░░ Expert |
-| 🕷️ **Burp Suite** | Web App Testing | ████████░░ Expert |
-| 💥 **Metasploit** | Exploitation | ███████░░░ Advanced |
-| 🌐 **OWASP ZAP** | Web Security | ███████░░░ Advanced |
-| 💉 **sqlmap** | SQL Injection | ████████░░ Expert |
-| 🔑 **Hydra** | Brute Force | ███████░░░ Advanced |
-| 🧠 **Medusa** | Auth Testing | ██████░░░░ Intermediate |
+| 💥 **Metasploit Framework** | Exploitation & Post-Exploitation | ████████░░ **Expert** |
+| 🐚 **Netcat (nc)** | Reverse Shells, Pivoting & Port Scanning | ████████░░ **Expert** |
+| 🔓 **John the Ripper** | Password Cracking | ███████░░░ Advanced |
+| #️⃣ **Hashcat** | GPU Hash Cracking | ███████░░░ Advanced |
+
+#### 🟠 Credential Attacks & Brute Force
+
+| Tool | Category | Proficiency |
+|------|----------|-------------|
+| 🔑 **Hydra** | Network Authentication Brute Force | ████████░░ **Expert** |
+| 🧠 **Medusa** | Parallel Credential Testing | ████████░░ **Expert** |
+| 🗝️ **CrackMapExec** | SMB / Active Directory Attacks | ██████░░░░ Intermediate |
+
+#### 🟡 Recon & Enumeration
+
+| Tool | Category | Proficiency |
+|------|----------|-------------|
+| 🗺️ **Nmap** | Network Recon & Port Scanning | ████████░░ **Expert** |
+| 🌾 **theHarvester** | OSINT & Email Harvesting | ███████░░░ Advanced |
+| 🔍 **enum4linux** | SMB / Samba Enumeration | ███████░░░ Advanced |
+| 📡 **Netdiscover** | Passive Host Discovery | ███████░░░ Advanced |
+
+#### 🟢 Web Application Testing
+
+| Tool | Category | Proficiency |
+|------|----------|-------------|
+| 🕷️ **Burp Suite** | Web Interception & Testing | ████████░░ **Expert** |
+| 💉 **sqlmap** | Automated SQL Injection | ████████░░ **Expert** |
+| 🦆 **Gobuster** | Directory / DNS / VHost Busting | ████████░░ **Expert** |
+| 🌐 **OWASP ZAP** | Web Vulnerability Scanning | ███████░░░ Advanced |
+| 🔎 **Dirb / Dirbuster** | Directory Brute Forcing | ███████░░░ Advanced |
+| 🔬 **Nikto** | Web Server Vulnerability Scanner | ███████░░░ Advanced |
+| 🕸️ **WhatWeb** | Web Technology Fingerprinting | ██████░░░░ Intermediate |
+
+#### 🔵 Network Analysis & Wireless
+
+| Tool | Category | Proficiency |
+|------|----------|-------------|
+| 🦈 **Wireshark** | Deep Packet Analysis | ███████░░░ Advanced |
+| ✂️ **tcpdump** | CLI Packet Capture & Filtering | ██████░░░░ Intermediate |
+| 📶 **Aircrack-ng** | Wireless Security Testing | ██████░░░░ Intermediate |
+| 📡 **Wifite** | Automated Wireless Attacks | ██████░░░░ Intermediate |
 
 </div>
 
@@ -219,7 +257,35 @@ cats: beloved
 
 ---
 
-### 🤖 ML / Data Science (Applied to Security)
+### 🕸️ Web Scraping & Automation
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img alt="Requests" width="48" height="48" src="https://raw.githubusercontent.com/psf/requests/main/docs/_static/requests-sidebar.png" />
+      <br/><sub><b>Requests</b></sub>
+      <br/><sub>HTTP Client</sub>
+    </td>
+    <td align="center" width="110">
+      <img alt="BeautifulSoup4" width="48" height="48" src="https://avatars.githubusercontent.com/u/25501657?s=200&v=4" />
+      <br/><sub><b>BeautifulSoup4</b></sub>
+      <br/><sub>HTML Parsing</sub>
+    </td>
+    <td align="center" width="110">
+      <img alt="Selenium" width="48" height="48" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg?raw=true" />
+      <br/><sub><b>Selenium</b></sub>
+      <br/><sub>Browser Automation</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🤖 ML / Data Science
 
 <div align="center">
 
@@ -246,8 +312,12 @@ cats: beloved
       <br/><sub><b>Pandas</b></sub>
     </td>
     <td align="center" width="90">
-      <img alt="Selenium" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/selenium/selenium-original.svg?raw=true" />
-      <br/><sub><b>Selenium</b></sub>
+      <img alt="Matplotlib" width="45" height="45" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg?raw=true" />
+      <br/><sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img alt="Seaborn" width="45" height="45" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+      <br/><sub><b>Seaborn</b></sub>
     </td>
   </tr>
 </table>
@@ -294,14 +364,10 @@ cats: beloved
 <a href="https://www.credly.com/badges/e79e2be1-d5cc-4cf2-b54f-2c1f1a781bdb/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity — Cisco" width="160"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/3e96d751-81b0-47ce-8a32-d327d8cf0315/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb6837/image.png" alt="Python Essentials I — Cisco" width="160"/>
-</a>
 
-<br/>
+<br/><br/>
 
-[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
+[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/notfawadmir)
 
 </div>
 
@@ -311,16 +377,16 @@ cats: beloved
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=chartreuse-dark&border_color=00ff41&border_radius=6&hide_border=false&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=notfawadmir&layout=compact&theme=chartreuse-dark&border_color=00ff41&border_radius=6&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=radical&border_color=00ff41&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=notfawadmir&layout=compact&theme=radical&border_color=00ff41&border_radius=6&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com/?user=notfawadmir&theme=dark&border=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&background=0d1117&border_radius=6&dates=c9d1d9" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=notfawadmir&theme=chartreuse-dark&border=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&background=0d1117&border_radius=6" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notfawadmir&theme=github_dark" alt="Contribution Activity"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notfawadmir&theme=github_dark" alt="Contribution Activity"/>
 
 </div>
 
@@ -331,7 +397,7 @@ cats: beloved
 <div align="center">
 
 <a href="./assets/CV.pdf" download="Fawad_Ahmed_Mir_CV.pdf">
-  <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_CV-00FF41?style=for-the-badge&logo=adobeacrobatreader&logoColor=0d1117&labelColor=0d1117&color=00ff41" alt="Download CV" height="50"/>
+  <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-00ff41?style=for-the-badge&logo=adobeacrobatreader&logoColor=0d1117&labelColor=0d1117" alt="Download CV" height="50"/>
 </a>
 
 </div>

@@ -329,11 +329,6 @@ coffee: mission-critical
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notfawadmir&count_private=true&show_icons=true&theme=radical&border_color=00ff41&border_radius=6&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=notfawadmir&layout=compact&theme=radical&border_color=00ff41&border_radius=6&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
 <img width="98%" src="https://streak-stats.demolab.com/?user=notfawadmir&theme=dark&border=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=00ff41&background=0d1117&border_radius=6&dates=c9d1d9" alt="GitHub Streak"/>
 
 <br/>

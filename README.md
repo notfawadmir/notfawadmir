@@ -319,8 +319,6 @@ coffee: mission-critical
 
 <br/><br/>
 
-> 🎯 *Currently grinding toward eJPT and eventually OSCP — the only cert that matters in this field.*
-
 [![Credly](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/notfawadmir)
 
 </div>

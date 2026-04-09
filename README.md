@@ -259,12 +259,12 @@ Internals: Cross-platform input hooks · Stealth techniques · Keystroke bufferi
       <br/><sub>Scripting · Automation</sub>
     </td>
     <td align="center" width="96">
-      <img alt="JavaScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+      <img alt="JavaScript" width="48" height="48" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
       <br/><sub><b>JavaScript</b></sub>
       <br/><sub>Web Attack Surface</sub>
     </td>
     <td align="center" width="96">
-      <img alt="MySQL" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+      <img alt="MySQL" width="48" height="48" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" />
       <br/><sub><b>MySQL</b></sub>
       <br/><sub>SQLi Practice</sub>
     </td>

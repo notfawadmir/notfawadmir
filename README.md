@@ -59,7 +59,7 @@ My work spans web application exploitation, network penetration testing, offensi
 
 | Service | Platform | Attack Vectors Practiced |
 |---------|----------|--------------------------|
-| 🗂️ **SMB (Samba)** | Windows 7 | EternalBlue, credential attacks, lateral movement |
+| 🗂️ **SMB (Samba)** | Windows   | EternalBlue, credential attacks, lateral movement |
 | 📁 **WebDAV** | Windows | File upload exploitation, RCE via misconfiguration |
 | 📤 **FTP Server** | Windows | Anonymous login abuse, brute force, file exfil |
 | 🌐 **HTTP/S Services** | Windows & Linux | Web vuln testing, directory busting, auth bypass |
